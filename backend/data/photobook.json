@@ -1,0 +1,227 @@
+{
+  "photobook": [
+    {
+      "year": 2025,
+      "name": "Aniversario 1",
+      "label": "2025",
+      "available": true,
+      "pages": [
+        {
+          "date": "",
+          "images": ["/images/2025/pg1.1.webp"]
+        },
+        {
+          "date": "04.02.25",
+          "images": ["/images/2025/pg2.04.02.25.webp"]
+        },
+        {
+          "date": "14.02.25",
+          "images": ["/images/2025/pg3.14.02.25.webp"]
+        },
+        {
+          "date": "27.02.25",
+          "images": ["/images/2025/pg4.27.02.25.webp"]
+        },
+        {
+          "date": "04.03.25",
+          "images": ["/images/2025/pg5.04.03.25.webp"]
+        },
+        {
+          "date": "19.03.25",
+          "images": ["/images/2025/pg6.19.03.25.webp"]
+        },
+        {
+          "date": "25.03.25",
+          "images": ["/images/2025/pg7.25.03.25.webp"]
+        },
+        {
+          "date": "25.03.25",
+          "images": ["/images/2025/pg8.25.03.25.webp"]
+        },
+        {
+          "date": "19.04.25",
+          "images": ["/images/2025/pg9.19.04.25.webp"]
+        },
+        {
+          "date": "19.04.25",
+          "images": ["/images/2025/pg10.19.04.25.webp"]
+        },
+        {
+          "date": "01.05.25",
+          "images": ["/images/2025/pg13.01.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg11.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg12.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg14.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg15.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg16.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg17.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg18.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg19.29.05.25.webp"]
+        },
+        {
+          "date": "29.05.25",
+          "images": ["/images/2025/pg20.29.05.25.webp"]
+        },
+        {
+          "date": "02.06.25",
+          "images": ["/images/2025/pg22.02.06.25.webp"]
+        },
+        {
+          "date": "14.06.25",
+          "images": ["/images/2025/pg23.14.06.25.webp"]
+        },
+        {
+          "date": ":3",
+          "images": ["/images/2025/pg24.3.webp"]
+        },
+        {
+          "date": "26.06.25",
+          "images": ["/images/2025/pg25.26.06.25.webp"]
+        },
+        {
+          "date": "01.07.25",
+          "images": ["/images/2025/pg26.01.07.25.webp"]
+        },
+        {
+          "date": "05.08.25",
+          "images": ["/images/2025/pg27.05.08.25.webp"]
+        },
+        {
+          "date": "07.08.25",
+          "images": ["/images/2025/pg28.07.08.25.webp"]
+        },
+        {
+          "date": "07.08.25",
+          "images": ["/images/2025/pg29.07.08.25.webp"]
+        },
+        {
+          "date": "07.08.25",
+          "images": ["/images/2025/pg30.07.08.25.webp"]
+        },
+        {
+          "date": "04.09.25",
+          "images": ["/images/2025/pg31.04.09.25.webp"]
+        },
+        {
+          "date": "04.09.25",
+          "images": ["/images/2025/pg32.04.09.25.webp"]
+        },
+        {
+          "date": "04.09.25",
+          "images": ["/images/2025/pg33.04.09.25.webp"]
+        },
+        {
+          "date": "04.09.25",
+          "images": ["/images/2025/pg34.04.09.25.webp"]
+        },
+        {
+          "date": "hijos",
+          "images": ["/images/2025/pg35.05.09.25.webp"]
+        },
+        {
+          "date": "18.09.25",
+          "images": ["/images/2025/pg36.18.09.25.webp"]
+        },
+        {
+          "date": "28.09.25",
+          "images": ["/images/2025/pg37.28.09.25.webp"]
+        },
+        {
+          "date": "06.10.25",
+          "images": ["/images/2025/pg38.06.10.25.webp"]
+        },
+        {
+          "date": "06.10.25",
+          "images": ["/images/2025/pg39.06.10.25.webp"]
+        },
+        {
+          "date": "26.10.25",
+          "images": ["/images/2025/pg40.26.10.25.webp"]
+        },
+        {
+          "date": "19.11.25",
+          "images": ["/images/2025/pg41.19.11.25.webp"]
+        },
+        {
+          "date": "06.12.25",
+          "images": ["/images/2025/pg42.06.12.25.webp"]
+        },
+        {
+          "date": "22.12.25",
+          "images": ["/images/2025/pg43.22.12.25.webp"]
+        },
+        {
+          "date": "22.12.25",
+          "images": ["/images/2025/pg44.22.12.25.webp"]
+        },
+        {
+          "date": "26.12.25",
+          "images": ["/images/2025/pg45.26.12.25.webp"]
+        },
+        {
+          "date": "04.01.26",
+          "images": ["/images/2025/pg46.04.01.26.webp"]
+        },
+        {
+          "date": "04.01.26",
+          "images": ["/images/2025/pg47.04.01.26.webp"]
+        },
+        {
+          "date": "04.01.26",
+          "images": ["/images/2025/pg48.04.01.26.webp"]
+        },
+        {
+          "date": "04.01.26",
+          "images": ["/images/2025/pg49.04.01.26.webp"]
+        },
+        {
+          "date": "09.01.26",
+          "images": ["/images/2025/pg50.09.01.26.webp"]
+        },
+        {
+          "date": "09.01.26",
+          "images": ["/images/2025/pg51.09.01.26.webp"]
+        },
+        {
+          "date": "19.01.26",
+          "images": ["/images/2025/pg52.19.01.26.webp"]
+        },
+        {
+          "date": "31.01.26",
+          "images": ["/images/2025/pg53.31.01.26.webp"]
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "name": "Aniversario 2",
+      "label": "2026",
+      "available": false,
+      "pages": []
+    }
+  ]
+}
