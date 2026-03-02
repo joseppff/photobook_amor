@@ -121,8 +121,8 @@ app.get('/api/welcome-images', async (req, res) => {
     const inicioPath = path.join(__dirname, 'images', 'inicio');
     const files = await fs.readdir(inicioPath);
     
-    // Filter only image files
-    const imageExtensions = ['.jpg', '.jpeg', '.png', '.webp', '.gif'];
+    // Filter only .webp images
+    const imageExtensions = ['.webp'];
     const imageFiles = files.filter(file => 
       imageExtensions.includes(path.extname(file).toLowerCase())
     );
