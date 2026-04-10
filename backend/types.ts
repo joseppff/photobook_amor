@@ -8,6 +8,7 @@ export interface YearData {
   name: string;
   label: string;
   available: boolean;
+  status?: string;
   pages: PhotoPage[];
 }
 

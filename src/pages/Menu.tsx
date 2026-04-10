@@ -76,9 +76,17 @@ const Menu = () => {
                   )}
                   
                   {/* Status Badge */}
-                  {!yearData.available && (
+                  {!yearData.available ? (
                     <div className="absolute top-4 right-4 bg-black/70 text-white px-3 py-1 rounded-md text-xs font-body">
                       Próximamente
+                    </div>
+                  ) : yearData.status && (
+                    <div className={`absolute top-4 right-4 px-3 py-1 rounded-md text-xs font-body ${
+                      yearData.status === "Finalizado" 
+                        ? "bg-[#8B7355] text-white" 
+                        : "bg-black/70 text-white"
+                    }`}>
+                      {yearData.status}
                     </div>
                   )}
                 </div>

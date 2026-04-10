@@ -5,6 +5,7 @@
       "name": "Aniversario 1",
       "label": "2025",
       "available": true,
+      "status": "Finalizado",
       "pages": [
         {
           "date": "",
@@ -85,7 +86,8 @@
         {
           "date": "29.05.25",
           "images": ["/images/2025/pg20.29.05.25.webp"]
-        },        {
+        },
+        {
           "date": "29.05.25",
           "images": ["/images/2025/pg21.29.05.25.webp"]
         },
@@ -223,8 +225,70 @@
       "year": 2026,
       "name": "Aniversario 2",
       "label": "2026",
-      "available": false,
-      "pages": []
+      "available": true,
+      "status": "En progreso",
+      "pages": [
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto1.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto15.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto2.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto3.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto4.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto5.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto6.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto7.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto8.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto9.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto10.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto11.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto12.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto13.webp"]
+        },
+        {
+          "date": "04.02.26",
+          "images": ["/images/2026/foto14.webp"]
+        }
+      ]
     }
   ]
 }
